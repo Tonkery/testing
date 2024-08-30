@@ -1,3 +1,2 @@
-.bzip2 filter=lfs diff=lfs merge=lfs -text
-*.bzip2 filter=lfs diff=lfs merge=lfs -text
+.bz2 filter=lfs diff=lfs merge=lfs -text
 *.bz2 filter=lfs diff=lfs merge=lfs -text
